@@ -22,8 +22,9 @@ print(list)
 # 4. lotto 6자리 구현해보세요.
 result = []
 while len(result) < 6:
-    num = random.randrange(1, 45)     # 1부터 45까지의 난수 발생
+    num = random.randrange(1, 46)     # 1부터 45까지의 난수 발생
     if num not in result:             # result 리스트 안에 num이 없으면 아래의 문장을 실행
         result.append(num)
 
+result.sort()
 print(result)
