@@ -1,0 +1,21 @@
+downloads - windows - python 3.8.9 - 32bit
+add python 3.8 to path 체크 
+installnow 
+cmd 열고 python 입력
+
+설치 끝
+-----------------------------------------------------------
+https://www.jetbrains.com/     도구
+
+개발자 도구 pycharm  
+community 다운로드 후 실행
+체크 x
+설치 완료후 
+run 체크 
+dont send 
+뉴프로젝트 goott_python 크리에이트
+뉴디렉토리 (test) - 뉴 파이썬파일(test)
+
+-------------------------------------------------------------
+REPL(Read-Eval-Print Loop) - cmd에서 python 실행시 사용됨
+
