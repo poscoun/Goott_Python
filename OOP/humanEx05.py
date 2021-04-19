@@ -28,3 +28,4 @@ class Human():
 
 person = Human('유관순', 160.3)
 print(person)
+
